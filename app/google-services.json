@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753648633526",
+    "project_id": "my-application-e8391",
+    "storage_bucket": "my-application-e8391.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753648633526:android:18134367c368a8fa514817",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCI2xnVxmYNezqOLBlsUUF4zl4XsyEvws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753648633526:android:f41f8dccb6e390fa514817",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationforcamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCI2xnVxmYNezqOLBlsUUF4zl4XsyEvws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
