@@ -83,6 +83,7 @@
                 android:layout_alignParentTop="true" />
 
             <TextView
+                android:id="@+id/userInfoText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="\n    Username : N.H.M.Dilhara\n\n    E-mail :\n    2022t01525@stu.cmb.ac.lk"

@@ -327,10 +327,11 @@
     <LinearLayout
         android:id="@+id/bottomNavBar"
         android:layout_width="0dp"
-        android:layout_height="64dp"
+        android:layout_height="80dp"
         android:orientation="horizontal"
-        android:background="#F6F6F8"
+        android:background="@drawable/bottom_nav_bg"
         android:gravity="center"
+        android:elevation="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
