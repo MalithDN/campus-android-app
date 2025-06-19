@@ -20,6 +20,7 @@
         app:layout_constraintEnd_toEndOf="parent">
 
         <ImageView
+            android:id="@+id/infoIcon"
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:src="@android:drawable/ic_dialog_info"
@@ -46,7 +47,7 @@
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_gravity="center"
-                android:src="@android:drawable/ic_menu_search"
+                android:src="@android:drawable/ic_menu_myplaces"
                 android:tint="@color/text_secondary" />
         </FrameLayout>
     </LinearLayout>
